@@ -27,11 +27,11 @@ IoT system that includes various components for managing and monitoring plant ir
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Vittori00/Progetto_IoT.git
+    git clone https://github.com/christianp12/CottonNet.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Progetto_IoT
+    cd CottonNet
     ```
 3. Start the registration server
 4. Start the nodes (and border router) on Contiki environment 
